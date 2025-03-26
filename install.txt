@@ -1,0 +1,25 @@
+sudo apt install python3-virtualenv python3-venv
+
+sudo apt install python3-virtualenv python3-venv
+
+virtualenv venv
+
+python3 -m  venv myVenv
+
+source venv/bin/activate
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+deactivate
